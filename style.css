@@ -2,3 +2,12 @@ h1
 {
 	color : olive;
 }
+.pp
+{
+	width: 250px;
+	height: 20px;
+	border: 5px 5px 5px 5px black; 
+	background-color: purple;
+	color:white;
+	text-align: center;
+}
